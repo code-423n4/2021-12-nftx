@@ -9,16 +9,6 @@ The new and updated version of NFTX.
 
 `npx hardhat test`
 
-## Primary Contracts
-
-- StakingTokenProvider
-- NFTXLPStaking
-- NFTXVaultUpgradeable
-- NFTXFeeDistributor
-- NFTXVaultFactory
-- NFTXEligibilityManager
-- Eligibility Modules
-
 ## Mainnet Contract Addresses
 
 ### Protocol
