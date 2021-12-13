@@ -110,7 +110,7 @@ For the InventoryStaking contract, when receiveRewards() is called it passes the
 
 You may assume that all NFT contracts are built in good faith and comply with either the ERC721 or ERC1155 spec.
 
-# Invariants
+# Important Invariants to Check For
 
 Vaults should always maintain 1:1 ratio between vault token (ERC20) supply and vault (NFT) holdings. For example, if the supply of GLYPH is 42 then there should be exactly 42 autoglyphs owned by the vault contract. This rule also applies to ERC1155 collections, however since it's possible for each 1155 tokenID to have multiple copies, it is the sum of all tokenID balances which must equal the supply of the vToken (e.g. if there is an ERC1155 collection called CryptoPandas and there is an NFTX vault with the symbol PANDA and a supply of 7, then it would be possible for the vault to hold tokenIDs 123 and 132 with balances of 3 and 4, because 3 + 4 = 7).
 
