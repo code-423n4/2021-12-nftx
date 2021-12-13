@@ -76,19 +76,19 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 
 # Contracts
 
-NFTXEligibilityManager.sol (90 lines)
-NFTXInventoryStaking.sol (177 lines)
-NFTXLPStaking.sol (343 lines)
-NFTXMarketplaceZap.sol (613 lines)
- - calls external contract UniswapV2Router
-NFTXSimpleFeeDistributor.sol (171 lines)
-NFTXStakingZap.sol (477 lines)
- - calls external contract UniswapV2Router
-NFTXVaultFactoryUpgradeable.sol (219 lines)
-NFTXVaultUpgradeable.sol (561 lines)
-StakingTokenProvider.sol (90 lines)
-TimelockRewardDistributionTokenImpl.sol (246 lines)
-XTokenUpgradeable.sol (85 lines)
+- NFTXEligibilityManager.sol (90 lines)
+- NFTXInventoryStaking.sol (177 lines)
+- NFTXLPStaking.sol (343 lines)
+- NFTXMarketplaceZap.sol (613 lines)
+  - calls external contract UniswapV2Router
+- NFTXSimpleFeeDistributor.sol (171 lines)
+- NFTXStakingZap.sol (477 lines)
+  - calls external contract UniswapV2Router
+- NFTXVaultFactoryUpgradeable.sol (219 lines)
+- NFTXVaultUpgradeable.sol (561 lines)
+- StakingTokenProvider.sol (90 lines)
+- TimelockRewardDistributionTokenImpl.sol (246 lines)
+- XTokenUpgradeable.sol (85 lines)
 
 # Overview
 
