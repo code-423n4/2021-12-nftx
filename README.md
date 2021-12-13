@@ -131,4 +131,6 @@ The most recent addition to the codebase is the NFTXInventoryStaking (ie. single
 
 # Links
 
-[Twitter](https://twitter.com/NFTX_) [Discord](https://discord.com/invite/hytQVM5ZxR) [Website](https://nftx.io/)
+- [NFTX Twitter](https://twitter.com/NFTX_)
+- [NFTX Discord](https://discord.com/invite/hytQVM5ZxR)
+- [NFTX Website](https://nftx.io/)
