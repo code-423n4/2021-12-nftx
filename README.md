@@ -128,3 +128,11 @@ Much of the current NFTX v2 codebase already underwent a code review this past s
 Since the last review, we have replaced the NFTXFeeDistributor contract with the NFTXSimpleFeeDistributor contract and we have also added the NFTXInventoryStaking contract. 
 
 The most recent addition to the codebase is the NFTXInventoryStaking (ie. single-side staking), and this is also the only feature which is not yet in production. 
+
+# Contact Info
+
+Twitter: https://twitter.com/NFTX_
+
+Discord: https://discord.com/invite/hytQVM5ZxR
+
+Website: https://nftx.io/
