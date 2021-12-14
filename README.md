@@ -56,9 +56,11 @@ Much of the current NFTX v2 codebase already underwent a code review this past s
 - repo: https://github.com/code-423n4/2021-05-nftx
 - findings: https://github.com/code-423n4/2021-05-nftx-findings
 
+Please do not submit any reports regarding gameable pseudorandomness. This is a design element of NFTX that we cannot change, such as changing to ChainLink VRF. We want to keep the simple randomness.
+
 # Areas of Current Review
 
-Since the last review, we have replaced the NFTXFeeDistributor contract with the NFTXSimpleFeeDistributor contract and we have also added the NFTXInventoryStaking contract. 
+Since the last review, we have replaced the NFTXFeeDistributor contract with the NFTXSimpleFeeDistributor contract and we have also added the NFTXInventoryStaking contract. There has also been the addition of the NFTXStakingZap and NFTXMarketplaceZap contracts.
 
 The most recent addition to the codebase is the NFTXInventoryStaking (ie. single-side staking), and this is also the only feature which is not yet in production. 
 
