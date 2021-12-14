@@ -54,7 +54,7 @@ Vault settings should only be configurable by the vault manager or the contract 
 Much of the current NFTX v2 codebase already underwent a code review this past summer, and may be viewed at the following links:
 
 - repo: https://github.com/code-423n4/2021-05-nftx
-- findings: https://github.com/code-423n4/2021-05-nftx-findings
+- findings: https://github.com/code-423n4/2021-05-nftx-findings/issues
 
 Please do not submit any reports regarding gameable pseudorandomness. This is a design element of NFTX that we cannot change, such as changing to ChainLink VRF. We want to keep the simple randomness.
 
